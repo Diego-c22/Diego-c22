@@ -23,6 +23,8 @@
 <p align="left">
     <a href="https://github.com/diego-c22/erc721categories"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-c22&repo=ERC721Categories&theme=ralgolia&hide_border=true&show_icons=false&bg_color=00000050&title_color=00aefe&text_color=FFFFFF" alt="github-readme-stats"></a>
     <a href="https://github.com/diego-c22/genericmarketplace"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-c22&repo=GenericMarketPlace&theme=ralgolia&hide_border=true&show_icons=false&bg_color=00000050&title_color=00aefe&text_color=FFFFFF" alt="github-readme-stats"></a>
+    
+ <a href="https://github.com/diego-c22/AnswereeOpenAI"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-c22&repo=AnswereeOpenAI&theme=ralgolia&hide_border=true&show_icons=false&bg_color=00000050&title_color=00aefe&text_color=FFFFFF" alt="github-readme-stats"></a>
 
 </p>
 
