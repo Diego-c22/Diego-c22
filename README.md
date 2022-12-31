@@ -1,16 +1,30 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;Solidity+Developer;Smart+Contracts+Developer;)](https://github.com/diego-c22)
 
 **Blockchain** | **Smart Contracts** | **Frontend** | **Backend**
 
-# 💻 Tech Stack:
+<br>
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=solidity,js,python,django,react,vue,nodejs,redux,tailwind,postgres,mysql,sqlite,nginx,aws,netlify,cloudflare,css,html,linux&perline=19)](https://skillicons.dev)
+<br>
+<br>
+<br>
 
-# 📊 GitHub Stats:
+## 💻 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Diego-c22&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Diego-c22&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-c22&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Diego-c22&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=20212400)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Diego-c22&theme=algolia&hide_border=false&background=00000000&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-c22&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+
+<br>
+<br>
+
+## Some of my projects
+
+<p align="left">
+    <a href="https://github.com/diego-c22/erc721categories"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-c22&repo=ERC721Categories&theme=ralgolia&hide_border=true&show_icons=false&bg_color=00000050&title_color=00aefe&text_color=FFFFFF" alt="github-readme-stats"></a>
+    <a href="https://github.com/diego-c22/genericmarketplace"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-c22&repo=GenericMarketPlace&theme=ralgolia&hide_border=true&show_icons=false&bg_color=00000050&title_color=00aefe&text_color=FFFFFF" alt="github-readme-stats"></a>
+
+</p>
 
 ---
 
